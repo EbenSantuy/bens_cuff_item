@@ -1,0 +1,2 @@
+INSERT INTO `items` (`name`, `label`, `limit`, `rare`, `can_remove`) VALUES ('cuffs', 'Handcuffs', '-1', '0', '1');
+INSERT INTO `items` (`name`, `label`, `limit`, `rare`, `can_remove`) VALUES ('cuff_keys', 'Handcuff Keys', '1', '0', '1');
